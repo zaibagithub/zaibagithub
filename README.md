@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="200" width="300" src="https://images.app.goo.gl/pBavbGtcuN65BtuLA " alt="Professional GIF" />
+  <img height="200" width="300" src="https://images.app.goo.gl/KAnNFXM4yaNFyRxk8" alt="Professional GIF" />
 </div>
 
 
